@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4f82ed53-601b-400f-beae-56cbc722aa1c": {
+      "ProjectGuid": "4f82ed53-601b-400f-beae-56cbc722aa1c",
+      "DisplayName": "Contracts",
+      "ColorIndex": 0
+    },
+    "661dd02b-03b0-4d5a-bf91-9e9bb87f3831": {
+      "ProjectGuid": "661dd02b-03b0-4d5a-bf91-9e9bb87f3831",
+      "DisplayName": "Domain",
+      "ColorIndex": 1
+    },
+    "5eadc2f9-4bc5-4b31-8445-7f4e855ce873": {
+      "ProjectGuid": "5eadc2f9-4bc5-4b31-8445-7f4e855ce873",
+      "DisplayName": "Repositories",
+      "ColorIndex": 2
+    },
+    "c5e263d8-bf45-44fe-9845-7c2a2c2113a2": {
+      "ProjectGuid": "c5e263d8-bf45-44fe-9845-7c2a2c2113a2",
+      "DisplayName": "Services",
+      "ColorIndex": 3
+    },
+    "2a64dbcb-1efb-4dde-9958-800ec11cd915": {
+      "ProjectGuid": "2a64dbcb-1efb-4dde-9958-800ec11cd915",
+      "DisplayName": "Api",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "5df4016d-34ac-4fb6-9038-c39ceb94b842": {
+      "ProjectGuid": "5df4016d-34ac-4fb6-9038-c39ceb94b842",
+      "DisplayName": "Services.Abstractions",
+      "ColorIndex": 5
+    },
+    "31cbf27c-8360-4af3-a115-604011b3c656": {
+      "ProjectGuid": "31cbf27c-8360-4af3-a115-604011b3c656",
+      "DisplayName": "Presentation",
+      "ColorIndex": 6
+    },
+    "a08a83f4-af4a-492a-ac92-4c3f40e22226": {
+      "ProjectGuid": "a08a83f4-af4a-492a-ac92-4c3f40e22226",
+      "DisplayName": "Api",
+      "ColorIndex": 7
+    },
+    "60402394-e498-40c4-834b-2737361777e4": {
+      "ProjectGuid": "60402394-e498-40c4-834b-2737361777e4",
+      "DisplayName": "teste",
+      "ColorIndex": 8
+    },
+    "0f42df18-c1ac-40ce-adfb-879c0ab93161": {
+      "ProjectGuid": "0f42df18-c1ac-40ce-adfb-879c0ab93161",
+      "DisplayName": "Api",
+      "ColorIndex": 9
+    },
+    "78f02bce-1d95-489d-9752-136b71cc51c2": {
+      "ProjectGuid": "78f02bce-1d95-489d-9752-136b71cc51c2",
+      "DisplayName": "Api",
+      "ColorIndex": 10
+    },
+    "9c099735-fab2-479e-9f6e-69d77d62843f": {
+      "ProjectGuid": "9c099735-fab2-479e-9f6e-69d77d62843f",
+      "DisplayName": "SchoolApi",
+      "ColorIndex": 11
+    },
+    "4acce5eb-8372-4fd1-a2ba-f8d269492216": {
+      "ProjectGuid": "4acce5eb-8372-4fd1-a2ba-f8d269492216",
+      "DisplayName": "SchoolAPI",
+      "ColorIndex": 12
+    },
+    "c98c0b93-2ac4-477f-8a30-2c2c547602bb": {
+      "ProjectGuid": "c98c0b93-2ac4-477f-8a30-2c2c547602bb",
+      "DisplayName": "SchoolApi",
+      "ColorIndex": 13
+    },
+    "3f8a679c-f0a5-462e-ac08-cf2828d78ed9": {
+      "ProjectGuid": "3f8a679c-f0a5-462e-ac08-cf2828d78ed9",
+      "DisplayName": "docker-compose",
+      "ColorIndex": 14
+    }
+  },
+  "NextColorIndex": 15
+}

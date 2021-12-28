@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\SchoolApplication\src\Infrastructure\Repositories\bin\Debug\net5.0\Repositories.deps.json
+C:\Users\Administrador\Desktop\SchoolApplication\src\Infrastructure\Repositories\bin\Debug\net5.0\Repositories.dll
+C:\Users\Administrador\Desktop\SchoolApplication\src\Infrastructure\Repositories\bin\Debug\net5.0\ref\Repositories.dll
+C:\Users\Administrador\Desktop\SchoolApplication\src\Infrastructure\Repositories\bin\Debug\net5.0\Repositories.pdb
+C:\Users\Administrador\Desktop\SchoolApplication\src\Infrastructure\Repositories\bin\Debug\net5.0\Domain.dll
+C:\Users\Administrador\Desktop\SchoolApplication\src\Infrastructure\Repositories\bin\Debug\net5.0\Domain.pdb
+C:\Users\Administrador\Desktop\SchoolApplication\src\Infrastructure\Repositories\obj\Debug\net5.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\SchoolApplication\src\Infrastructure\Repositories\obj\Debug\net5.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\SchoolApplication\src\Infrastructure\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\SchoolApplication\src\Infrastructure\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\SchoolApplication\src\Infrastructure\Repositories\obj\Debug\net5.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\SchoolApplication\src\Infrastructure\Repositories\obj\Debug\net5.0\Repositories.csproj.CopyComplete
+C:\Users\Administrador\Desktop\SchoolApplication\src\Infrastructure\Repositories\obj\Debug\net5.0\Repositories.dll
+C:\Users\Administrador\Desktop\SchoolApplication\src\Infrastructure\Repositories\obj\Debug\net5.0\ref\Repositories.dll
+C:\Users\Administrador\Desktop\SchoolApplication\src\Infrastructure\Repositories\obj\Debug\net5.0\Repositories.pdb

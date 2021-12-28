@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\SchoolApplication\src\Core\Services.Abstractions\bin\Debug\net5.0\Services.Abstractions.deps.json
+C:\Users\Administrador\Desktop\SchoolApplication\src\Core\Services.Abstractions\bin\Debug\net5.0\Services.Abstractions.dll
+C:\Users\Administrador\Desktop\SchoolApplication\src\Core\Services.Abstractions\bin\Debug\net5.0\ref\Services.Abstractions.dll
+C:\Users\Administrador\Desktop\SchoolApplication\src\Core\Services.Abstractions\bin\Debug\net5.0\Services.Abstractions.pdb
+C:\Users\Administrador\Desktop\SchoolApplication\src\Core\Services.Abstractions\bin\Debug\net5.0\Contracts.dll
+C:\Users\Administrador\Desktop\SchoolApplication\src\Core\Services.Abstractions\bin\Debug\net5.0\Contracts.pdb
+C:\Users\Administrador\Desktop\SchoolApplication\src\Core\Services.Abstractions\obj\Debug\net5.0\Services.Abstractions.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\SchoolApplication\src\Core\Services.Abstractions\obj\Debug\net5.0\Services.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\SchoolApplication\src\Core\Services.Abstractions\obj\Debug\net5.0\Services.Abstractions.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\SchoolApplication\src\Core\Services.Abstractions\obj\Debug\net5.0\Services.Abstractions.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\SchoolApplication\src\Core\Services.Abstractions\obj\Debug\net5.0\Services.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\SchoolApplication\src\Core\Services.Abstractions\obj\Debug\net5.0\Services.Abstractions.csproj.CopyComplete
+C:\Users\Administrador\Desktop\SchoolApplication\src\Core\Services.Abstractions\obj\Debug\net5.0\Services.Abstractions.dll
+C:\Users\Administrador\Desktop\SchoolApplication\src\Core\Services.Abstractions\obj\Debug\net5.0\ref\Services.Abstractions.dll
+C:\Users\Administrador\Desktop\SchoolApplication\src\Core\Services.Abstractions\obj\Debug\net5.0\Services.Abstractions.pdb
